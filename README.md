@@ -32,7 +32,7 @@ Besides, the JS file is the core of the project, it controls the interactivity a
 
 - Download the game files `script.js`, `style.css` and `snake.html`, put them into the same directory.
 
-- Open the `snake.html` file in any explore.
+- Open the `snake.html` file in any browser.
 
 ## Operations
 
